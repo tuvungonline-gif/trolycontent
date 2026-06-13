@@ -1,0 +1,6 @@
+{
+  "name": "Tạo Prompt Master Chuyên Gia",
+  "description": "Ứng dụng giúp tạo ra Prompt Master chuyên nghiệp, chi tiết cho mọi ngành nghề chỉ trong vài bước, tích hợp tối ưu hóa AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
